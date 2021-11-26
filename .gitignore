@@ -30,9 +30,6 @@ docs
 # Coverage
 coverage
 
-# Dist
-dist
-
 #IDEA
 *.idea
 
